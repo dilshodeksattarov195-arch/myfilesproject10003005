@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionferify",
+        "uuid": 366610,
+        "checksum": "2ofmn9"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
